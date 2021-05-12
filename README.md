@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoDocCat/NoDocCat/master/Tairitsu.png" width="350">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodoccat&show_icons=true&&include_all_commits=true&line_height=30"
+  <img src="https://github-readme-stats.vercel.app/api?username=nodoccat&show_icons=true&count_private=true&line_height=30"
        width="56%" height="350"
   >
 </p>
